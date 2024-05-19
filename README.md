@@ -1,2 +1,3 @@
 # jgroups-raft-example
-A simple distributed service registry to demonstrate how to use jgroups-raft
+
+A Quarkus application building the Zookeeper Queue recipe with jgroups-raft.
